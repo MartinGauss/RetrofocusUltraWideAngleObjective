@@ -1,0 +1,11 @@
+RETROFOCUS TYPE ULTRA-WIDE ANGLE LENS
+
+EFL: 100
+BFL: 284,207
+Afo EFL: 100
+EPD: 12,5
+NA: 0,062
+F/#: 8,0
+FoV: 50
+Work Distance: 434,122
+Wavelength: Visible range
